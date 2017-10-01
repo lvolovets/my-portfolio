@@ -1,7 +1,7 @@
 # Leonard Volovets portfolio
 This is my professional portfolio.  It uses AWS and ReactJS
 
-## Technologies used
+## Technologies used:
 
 npm
 Git and github
